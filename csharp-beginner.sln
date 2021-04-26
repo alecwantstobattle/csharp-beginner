@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypeConversion", "TypeConve
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operators", "Operators\Operators.csproj", "{C112275F-DEAB-4CC0-8036-83DF67EA7E87}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes", "Classes\Classes.csproj", "{3649B69D-9709-425D-A4CA-0D98D66926AB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{C112275F-DEAB-4CC0-8036-83DF67EA7E87}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C112275F-DEAB-4CC0-8036-83DF67EA7E87}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C112275F-DEAB-4CC0-8036-83DF67EA7E87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3649B69D-9709-425D-A4CA-0D98D66926AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3649B69D-9709-425D-A4CA-0D98D66926AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3649B69D-9709-425D-A4CA-0D98D66926AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3649B69D-9709-425D-A4CA-0D98D66926AB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
