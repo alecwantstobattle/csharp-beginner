@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operators", "Operators\Oper
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes", "Classes\Classes.csproj", "{3649B69D-9709-425D-A4CA-0D98D66926AB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csproj", "{D86D4A72-D916-4FE5-BB6A-F0AFB1B307FE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{3649B69D-9709-425D-A4CA-0D98D66926AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3649B69D-9709-425D-A4CA-0D98D66926AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3649B69D-9709-425D-A4CA-0D98D66926AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D86D4A72-D916-4FE5-BB6A-F0AFB1B307FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D86D4A72-D916-4FE5-BB6A-F0AFB1B307FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D86D4A72-D916-4FE5-BB6A-F0AFB1B307FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D86D4A72-D916-4FE5-BB6A-F0AFB1B307FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
