@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReferenceTypes", "Reference
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConditionalStatements", "ConditionalStatements\ConditionalStatements.csproj", "{13717E49-9BD1-4E4D-8058-3E7735B7509E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForLoop", "ForLoop\ForLoop.csproj", "{7BBF6BE1-9182-44EC-B1DA-249CE5236F68}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{13717E49-9BD1-4E4D-8058-3E7735B7509E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{13717E49-9BD1-4E4D-8058-3E7735B7509E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{13717E49-9BD1-4E4D-8058-3E7735B7509E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BBF6BE1-9182-44EC-B1DA-249CE5236F68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BBF6BE1-9182-44EC-B1DA-249CE5236F68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BBF6BE1-9182-44EC-B1DA-249CE5236F68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BBF6BE1-9182-44EC-B1DA-249CE5236F68}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
