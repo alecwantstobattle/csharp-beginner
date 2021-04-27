@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReferenceTypesAndValueTypes
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReferenceTypes", "ReferenceTypes\ReferenceTypes.csproj", "{EC51B614-F012-4D2D-A92C-7B8D75BB9BEC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConditionalStatements", "ConditionalStatements\ConditionalStatements.csproj", "{13717E49-9BD1-4E4D-8058-3E7735B7509E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{EC51B614-F012-4D2D-A92C-7B8D75BB9BEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC51B614-F012-4D2D-A92C-7B8D75BB9BEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC51B614-F012-4D2D-A92C-7B8D75BB9BEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13717E49-9BD1-4E4D-8058-3E7735B7509E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13717E49-9BD1-4E4D-8058-3E7735B7509E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13717E49-9BD1-4E4D-8058-3E7735B7509E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13717E49-9BD1-4E4D-8058-3E7735B7509E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
