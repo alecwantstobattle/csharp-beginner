@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhileLoop", "WhileLoop\Whil
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Random", "Random\Random.csproj", "{06895163-87B5-4FF2-849E-0E4CAE390DE6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lists", "Lists\Lists.csproj", "{62364C9A-B81D-40DC-8FF4-0789839F9807}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{06895163-87B5-4FF2-849E-0E4CAE390DE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{06895163-87B5-4FF2-849E-0E4CAE390DE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{06895163-87B5-4FF2-849E-0E4CAE390DE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62364C9A-B81D-40DC-8FF4-0789839F9807}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62364C9A-B81D-40DC-8FF4-0789839F9807}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62364C9A-B81D-40DC-8FF4-0789839F9807}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62364C9A-B81D-40DC-8FF4-0789839F9807}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
