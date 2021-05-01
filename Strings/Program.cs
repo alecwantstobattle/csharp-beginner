@@ -10,23 +10,31 @@ namespace Strings
     {
         static void Main(string[] args)
         {
-            var firstName = "Mosh";
-            var lastName = "Hamedani";
+            var fullName = "Mosh Hamedani ";
+            Console.WriteLine("Trim: '{0}'", fullName.Trim());
+            Console.WriteLine("ToUpper: '{0}'", fullName.Trim().ToUpper());
 
-            var fullName = firstName + " " + lastName;
+            var index = fullName.IndexOf(' ');
+            var firstName = fullName.Substring(0, index);
+            var lastName = fullName.Substring(index + 1);
+            Console.WriteLine("FirstName: " + firstName);
+            Console.WriteLine("LastName: " + lastName);
 
-            var myFullName = string.Format("My name is {0} {1}", firstName, lastName);
+            var names = fullName.Split(' ');
+            Console.WriteLine("FirstName: " + names[0]);
+            Console.WriteLine("LastName: " + names[1]);
 
-            var names = new string[3] {"John", "Jack", "Mary"};
-            var formattedNames = string.Join(",", names);
-            Console.WriteLine(formattedNames);
+            Console.WriteLine(fullName.Replace("Mosh", "Moshfegh"));
 
-            //var text = "Hi John\nLook into the following paths \nc:\\folder1\\folder2\nc:\\folder3\\folder4";
-            var text = @"Hi John
-Look into the following paths 
-c:\folder1\folder2
-c:\folder3\folder4";
-            Console.WriteLine(text);
+            if (String.IsNullOrWhiteSpace(" "))
+                Console.WriteLine("Invalid");
+
+            var str = "25";
+            var age = Convert.ToByte(str);
+            Console.WriteLine(age);
+
+            float price = 29.95f;
+            Console.WriteLine(price.ToString("C0"));
         }
     }
 }
