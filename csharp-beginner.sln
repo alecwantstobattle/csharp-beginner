@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SummarizingText", "Summariz
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringBuilder", "StringBuilder\StringBuilder.csproj", "{0D64FD78-3B20-4C01-817D-174828EB5BBB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProceduralProgramming", "ProceduralProgramming\ProceduralProgramming.csproj", "{675A8C05-0036-4F19-AE43-26CDD150F297}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{0D64FD78-3B20-4C01-817D-174828EB5BBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0D64FD78-3B20-4C01-817D-174828EB5BBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0D64FD78-3B20-4C01-817D-174828EB5BBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{675A8C05-0036-4F19-AE43-26CDD150F297}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{675A8C05-0036-4F19-AE43-26CDD150F297}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{675A8C05-0036-4F19-AE43-26CDD150F297}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{675A8C05-0036-4F19-AE43-26CDD150F297}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
