@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datetime", "Datetime\Dateti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Timespan", "Timespan\Timespan.csproj", "{E78933CE-95B9-4E95-90E9-9EB1AC9849E4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SummarizingText", "SummarizingText\SummarizingText.csproj", "{4D021C7A-3AA0-4319-83AF-39F6BE508CBC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{E78933CE-95B9-4E95-90E9-9EB1AC9849E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E78933CE-95B9-4E95-90E9-9EB1AC9849E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E78933CE-95B9-4E95-90E9-9EB1AC9849E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D021C7A-3AA0-4319-83AF-39F6BE508CBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D021C7A-3AA0-4319-83AF-39F6BE508CBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D021C7A-3AA0-4319-83AF-39F6BE508CBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D021C7A-3AA0-4319-83AF-39F6BE508CBC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
