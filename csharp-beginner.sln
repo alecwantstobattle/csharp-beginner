@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirectoryAndDirectoryInfo",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paths", "Paths\Paths.csproj", "{774F4E34-1BE7-4B55-9AE0-4180FB832A09}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntroToDebugging", "IntroToDebugging\IntroToDebugging.csproj", "{5A11DA82-01CE-42CF-9A83-A4DD565F4FFE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{774F4E34-1BE7-4B55-9AE0-4180FB832A09}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{774F4E34-1BE7-4B55-9AE0-4180FB832A09}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{774F4E34-1BE7-4B55-9AE0-4180FB832A09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A11DA82-01CE-42CF-9A83-A4DD565F4FFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A11DA82-01CE-42CF-9A83-A4DD565F4FFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A11DA82-01CE-42CF-9A83-A4DD565F4FFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A11DA82-01CE-42CF-9A83-A4DD565F4FFE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
